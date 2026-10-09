@@ -6,5 +6,6 @@
     "origin": "https://github.com/markovicsmarko/AMPTemplates.git",
     "url": "https://github.com/markovicsmarko/AMPTemplates",
     "imagefile": "",
-    "prefix": "markovicsmarko"
+    "prefix": "markovicsmarko",
+    "repotype": "AppTemplates"
 }
