@@ -1,0 +1,10 @@
+[
+    {
+        "Protocol": "UDP",
+        "Port": 28960,
+        "Ref": "MainGamePort",
+        "Name": "Main Game Port",
+        "Description": "Port used for main game traffic",
+        "Required": true
+    }
+]
